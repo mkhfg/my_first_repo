@@ -5,7 +5,7 @@ changed file1
 
 whoa, yet another change!!
 
-
+attempting to make a conflicting change that requires a merge
 
 making a different change to test on 2020-03-19
 
